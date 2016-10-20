@@ -1,5 +1,5 @@
 from maze_runner_correct import *
-from controller import *
+from maze_controller import *
 
 # start rotation (1,0) ->
 
